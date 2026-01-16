@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Ritwik 👋</h1>
 <p align="center">
-  🎓 MSc Data Science | 🧠 Machine Learning Enthusiast | ☁️ Cloud & NLP Explorer  
+
 </p>
 
 ---
