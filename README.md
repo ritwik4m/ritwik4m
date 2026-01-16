@@ -7,16 +7,16 @@
 
 ## 👨‍💻 About Me
 
-I’m a Data Science professional currently pursuing my **MSc in Data Science** at the **University of Surrey** (graduating 2025). My journey blends over **5 years of QA Engineering experience** with modern data science skills in:
-
+I’m a Data Science professional with an MSc in Data Science (Distinction) from the University of Surrey. I bring over 5 years of QA Engineering and data validation experience, combined with modern data science expertise in:
 - 🧠 Machine Learning
 - 🐍 Python
 - 🧮 SQL / NoSQL
 - 📊 Data Visualization
 - 📚 NLP & Deep Learning
 - ☁️ Cloud Computing
+  
+I’m driven to build reliable, scalable, and data‑driven solutions that solve real‑world problems and deliver measurable business value.
 
-I'm passionate about building **reliable, data-driven solutions** that solve real-world problems and deliver business value.
 
 ---
 
